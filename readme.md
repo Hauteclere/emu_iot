@@ -1,6 +1,5 @@
 # To Do:
 
-- add lambda to push to dynamodb before returning parsed data
 - clean up extra stuff:
   - UserName='db_user'
   - PolicyName='db_user_policy'
